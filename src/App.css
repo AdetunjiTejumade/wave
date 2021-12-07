@@ -1,3 +1,7 @@
+body{
+    background-color: #101820FF;
+    padding: 0 20px 0 20px;
+}
 .mainContainer {
   display: flex;
   justify-content: center;
@@ -16,6 +20,7 @@
   text-align: center;
   font-size: 32px;
   font-weight: 600;
+  color: #F05D5E;
 }
 
 .bio {
@@ -27,7 +32,10 @@
 .waveButton {
   cursor: pointer;
   margin-top: 16px;
-  padding: 8px;
+  padding: 12px;
+  font-weight: 600;
+  color: #fff;
+  background-color: #51539e;
   border: 0;
   border-radius: 5px;
   
